@@ -17,9 +17,6 @@ My programming time is from the summer of 2023
 
 <div style="display:flex; align-items:center">
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" style="margin-right:40px;" width="300" height="300" alt="Fast API" /></a>
-
-<p style="font-size:64px; padding:20px">+</p>
-
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" style="margin-right:20px;" width="300" height="300" alt="Nuxtjs" /></a>
 </div>
 
