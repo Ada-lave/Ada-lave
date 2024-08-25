@@ -19,7 +19,7 @@ My programming time is from the summer of 2023
 
 <div>
 <img src="https://github.com/rfyiamcool/golang_logo/blob/master/svg/golang_2.svg" style="margin-right:40px;" width="300" height="300" alt="Fast API" />
-<img align="right" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" style="margin-right:20px;" width="300" height="300" alt="Nuxtjs" />
+<img align="right" src="https://habrastorage.org/webt/59/f0/51/59f0515c722dc812285307.png" style="margin-right:20px;" width="300" height="300" alt="Nuxtjs" />
 </div>
 
 # My current job project
