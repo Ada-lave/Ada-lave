@@ -18,7 +18,7 @@ My programming time is from the summer of 2023
 
 
 <div>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" style="margin-right:40px;" width="300" height="300" alt="Fast API" />
+<img src="https://github.com/rfyiamcool/golang_logo/blob/master/svg/golang_2.svg" style="margin-right:40px;" width="300" height="300" alt="Fast API" />
 <img align="right" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" style="margin-right:20px;" width="300" height="300" alt="Nuxtjs" />
 </div>
 
