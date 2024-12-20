@@ -24,13 +24,11 @@ My programming time is from the summer of 2023
 
 # My current job project
 
-* I'm currently working on [MLCity](https://mlcity.ru)
+* I'm currently working on [ПИ](https://pressindex.ru/about)
 
 # My current pet projects
 
-* [Printerio](http://printer-io.ru) ( In development )
-* Free API for docs convertation ( In development )
-* Schema to sqlite3 database ( In planning ) 
+* Bluesea(Docker helper) ( In planning ) 
 
 # General skills
 
