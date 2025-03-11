@@ -24,11 +24,11 @@ My programming time is from the summer of 2023
 
 # My current job project
 
-* I'm currently working on [ПИ](https://pressindex.ru/about)
+* I'm currently working in [PressIndex](https://pressindex.ru/about)
 
 # My current pet projects
 
-* Bluesea(Docker helper) ( In planning ) 
+* Terraria servers in RU
 
 # General skills
 
